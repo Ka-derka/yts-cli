@@ -1,0 +1,11 @@
+# Rust/Cargo
+/target/
+/**/*.rs.bk
+
+# Mac / Linux editor temp files
+*~
+*.swp
+
+# IDEs
+.vscode/
+.idea/
