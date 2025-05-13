@@ -1,7 +1,7 @@
 # Makefile for yts-cli
 
 PKGNAME := yts-cli
-PKGVER  := 0.0.3
+PKGVER  := 0.0.1a
 SRC_TGZ := https://github.com/yourusername/yts-cli/archive/refs/tags/v$(PKGVER).tar.gz
 TARBALL := $(PKGNAME)-$(PKGVER).tar.gz
 
