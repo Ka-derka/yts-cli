@@ -1,6 +1,6 @@
 # Maintainer: Alex Lost <astro.tofuu@gmail.com>
 pkgname=yts-cli
-pkgver=0.0.1a
+pkgver=0.0.2
 pkgrel=1
 pkgdesc="A tool to list movies from YTS and generate magnet links"
 arch=('x86_64' 'aarch64')

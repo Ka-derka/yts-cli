@@ -1,5 +1,5 @@
 use clap::{Parser, Subcommand};
-use prettytable::{Table, row, cell};
+use prettytable::{Table, row};
 use reqwest::Error;
 use serde::Deserialize;
 
