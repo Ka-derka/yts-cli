@@ -2,14 +2,14 @@
 
 A simple CLI to list movies from YTS (https://yts.mx) and generate magnet links.
 
-how to install
+how to install (it doesn't work because why would it want to?)
 ```bash
 git clone https://github.com/Ka-derka/yts-cli.git
 cd yts-cli
 makepkg -si
 ```
 
-or
+or how to _acutally_ install it
 
 ```bash
 git clone https://github.com/Ka-derka/yts-cli.git
